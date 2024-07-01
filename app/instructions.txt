@@ -1,0 +1,75 @@
+header
+component primo array de primos
+voice
+qr
+tombstone
+imagen: abuelo,abuela
+tabachin
+
+*************
+{
+  "Rodrigez": [
+    "Samue Rodrigez",
+    "Elias Rodrigez",
+    "Marco Antonio Rodrigez",
+    "Gerardo Rodrigez",
+    "Orlando Rodrigez"
+  ],
+  "Comas": [
+    "Alejandra Comas",
+    "Silvia Comas",
+    "Maria Jose Comas",
+    "Raul Comas"
+  ],
+  "Romero": [
+    "Deisy Romero",
+    "Celia Romero",
+    "Roberto Romero",
+    "Aide Romero"
+  ],
+  "Vazquez": [
+    "Jesus Antonio Vazquez",
+    "Luis Manuel Vazquez",
+    "Beatriz Vazquez"
+  ],
+  "Mercado": [
+    "Beatriz Mercado",
+    "Loudes Mercado",
+    "Luis Alfredo Mercado",
+    "Jose Miguel Mercado"
+  ],
+  "Carrillo": [
+    "Oscar",
+    "Jose",
+    "Orlando"
+  ],
+  "Muños": [
+    "Deisy Muños",
+    "Alma Muños",
+    "Humberto Muñoz"
+  ],
+  "Leonardo_and_Laura": [
+    "Leonardo",
+    "Laura Beatriz"
+  ],
+  "Edgar_and_Karolina": [
+    "Edgar",
+    "Karolina"
+  ],
+  "Mauricio_and_Others": [
+    "Mauricio",
+    "Miguel Angel",
+    "Alberto"
+  ],
+  "Omar_and_Siblings": [
+    "Omar",
+    "Damaris",
+    "Evelin"
+  ],
+  "Deyanira_and_Cristian": [
+    "Deyanira",
+    "Cristian"
+  ]
+}
+
+*************

@@ -1,0 +1,257 @@
+{
+    "primos": [
+        {
+            "id": "18",
+            "name": "Beatriz Del Carmen ",
+            "foto": "/images/bettyMercado.jpeg",
+            "frase": "La familia es el primer paso hacia la felicidad."
+        },
+        {
+            "id": "19",
+            "name": "Lourdes Lorena",
+            "foto": "/images/default.png",
+            "frase": "untos, somos más fuertes."
+        },
+        {
+            "id": "19",
+            "name": "Luis Alfredo ",
+            "foto": "/images/luis.png",
+            "frase": "Juntos, somos más fuertes."
+        },
+        {
+            "id": "20",
+            "name": "Jose Miguel",
+            "foto": "/images/jose.png",
+            "frase": "La familia es donde la vida comienza y el amor nunca termina."
+
+        },
+        {
+            "id": "1",
+            "name": "Samuel Rodrigez",
+            "foto": "/images/pablo.png",
+            "frase": "En la familia, todos los días son una nueva oportunidad para crecer juntos."
+        },
+        {
+            "id": "2",
+            "name": "Elias Rodrigez",
+            "foto": "/images/elias.png",
+            "frase": "Los lazos familiares son como ramas de un árbol; crecen en diferentes direcciones, pero las raíces son las mismas."
+        },
+        {
+            "id": "3",
+            "name": "Marco Antonio ",
+            "foto": "/images/marco.png",
+            "frase": "Una familia unida puede superar cualquier obstáculo"
+        },
+        {
+            "id": "4",
+            "name": "Gerardo Rodrigez",
+            "foto": "/images/gerardoDefault.png",
+            "frase": "El apoyo de una familia es el mayor tesoro que puedes tener."
+        },
+        {
+            "id": "5",
+            "name": "Rodrigo Carlo ",
+            "foto": "/images/rodrigo.png",
+            "frase":"La familia es el lugar donde se cultiva el amor, la comprensión y la esperanza."
+        },
+        {
+            "id": "6",
+            "name": "Alejandra Ivette ",
+            "foto": "/images/alejandra.png",
+            "frase": "na familia unida es capaz de enfrentar cualquier desafío."
+        },
+        {
+            "id": "7",
+            "name": "Silvia Dolores",
+            "foto": "/images/silvia.png",
+            "frase": "0La familia es la base de la fortaleza y la felicidad en la vida."
+        },
+        {
+            "id": "9",
+            "name": "Maria Jose",
+            "foto": "/images/mj.jpeg",
+            "frase": "El amor familiar es un lazo que nunca se rompe."
+        },
+        {
+            "id": "10",
+            "name": "Raul Alberto ",
+            "foto": "/images/raul.png",
+            "frase": "La verdadera riqueza de la vida son los momentos compartidos con la familia."
+        },
+        {
+            "id": "11",
+            "name": "Deisy Judid",
+            "foto": "/images/deisita.png",
+            "frase": "La familia es la brújula que nos guía; el abrazo que nos protege y el lugar donde encontramos consuelo."                             
+        },
+        {
+            "id": "12",
+            "name": "Celia Marlene ",
+            "foto": "/images/celia1.png",
+            "frase":"Cada miembro de la familia es una pieza única en el rompecabezas de la vida."
+        },
+        {
+            "id": "13",
+            "name": "Roberto",
+            "foto": "/images/roberto.png",
+            "frase":"El hogar es donde la familia está."
+        },
+        {
+            "id": "14",
+            "name": "Aide Dolores Romero",
+            "foto": "/images/aide.png",
+            "frase":"El amor familiar es un lazo que nunca se rompe."
+        },
+        {
+            "id": "15",
+            "name": "Jesus Antonio Vazquez",
+            "foto": "/images/jesus.png",
+            "frase":"La familia no es algo importante, lo es todo"
+        },
+        {
+            "id": "16",
+            "name": "Luis Manuel ",
+            "foto": "/images/luism.png",
+            "frase": "Las raíces de la familia son la fuerza de la vida."
+        },
+        {
+            "id": "17",
+            "name": "Beatriz Amelia ",
+            "foto": "/images/bettyv.png",
+            "frase": "El amor de la familia es el motor que impulsa nuestros sueños"
+        },
+        {
+            "id": "21",
+            "name": "Oscar Humberrto ",
+            "foto": "/images/oscardefault.png",
+            "frase": "La familia es la chispa que enciende la llama del amor y la esperanza."
+        },
+        {
+            "id": "22",
+            "name": "Jose Alfredo Crillo",
+            "foto": "/images/joseTeresa.png",
+            "frase": "El amor de la familia es el motor que impulsa nuestros sueños."
+        },
+        {
+            "id": "23",
+            "name": "Orlando Gabriel ",
+            "foto": "/images/orlando.png",
+            "frase": "Una familia que ríe unida, permanece unida."
+        },
+        {
+            "id": "26",
+            "name": "Deisy Del Carrmen",
+            "foto": "/images/deisiMunoz.jpeg",
+            "frase": "Cada momento compartido en familia es un tesoro que perdura para siempre."
+        },
+        {
+            "id": "27",
+            "name": "Alma Delia ",
+            "foto": "/images/alma.png",
+            "frase": "La verdadera riqueza es tener una familia unida y feliz."
+        },
+        {
+            "id": "29",
+            "name": "Humberto Alejandro",
+            "foto": "/images/humberto1.png",
+            "frase": "Una familia que ríe unida, permanece unida."
+        },
+        {
+            "id": "30",
+            "name": "Leonardo Fabian ",
+            "foto": "/images/leonardo.png",
+            "frase": ""
+        },
+        {
+            "id": "31",
+            "name": "Laura Beatriz  ",
+            "foto": "/images/laura.png",
+            "frase": "La verdadera riqueza es tener una familia unida y feliz."
+        },
+        {
+            "id": "32",
+            "name": "Edgar",
+            "foto": "/images/edgar1.png",
+            "frase": "Una familia que ríe unida, permanece unida."
+        },
+        {
+            "id": "32",
+            "name": "Carolina  ",
+            "foto": "/images/default.png",
+            "frase": "La verdadera riqueza es tener una familia unida y feliz."
+        },
+        {
+            "id": "32",
+            "name": "Mauricio",
+            "foto": "/images/primodefault.png",
+            "frase": "Una familia que ríe unida, permanece unida."
+        },
+        {
+            "id": "32",
+            "name": "Miguel Angel",
+            "foto": "/images/primodefault.png",
+            "frase": "La verdadera riqueza es tener una familia unida y feliz."
+
+
+        },
+        {
+            "id": "33",
+            "name": "Luis Alberto",
+            "foto": "/images/primodefault.png",
+            "frase": "La verdadera riqueza es tener una familia unida y feliz."
+
+
+        },
+        {
+            "id": "34",
+            "name": "Omar Alfredo",
+            "foto": "/images/omar.png",
+            "frase": ""
+        },
+        {
+            "id": "35",
+            "name": "Damaris Geovana",
+            "foto": "/images/damaris.png",
+            "frase": "El hogar es donde la familia se encuentra, se ama y se apoya."
+        },
+        {
+            "id": "35",
+            "name": "Evelin Ivette",
+            "foto": "/images/evelin.png",
+            "frase": "La familia es el refugio en el que siempre encontrarás amor y apoyo."
+        },
+        {
+            "id": "36",
+            "name": "Deyanira ",
+            "foto": "/images/deyanira.png",
+            "frase": "El amor familiar es un faro que ilumina los días más oscuros."
+
+
+        },
+        {
+            "id": "37",
+            "name": "Cristian",
+            "foto": "/images/cristian.png",
+            "frase": "En la familia, la felicidad se multiplica y las penas se dividen."
+        },
+        {
+            "id": "38",
+            "name": "Luz",
+            "foto": "/images/luz.png",
+            "frase": "El apoyo de una familia es la mejor medicina para cualquier dificultad."
+        },
+        {
+            "id": "39",
+            "name": "Jaime Holger",
+            "foto": "/images/jaime.png",
+            "frase": "La familia es la fuente de amor más pura y sincera."
+        },
+        {
+            "id": "37",
+            "name": "Rafael ",
+            "foto": "/images/rafael.png",
+            "frase": "Una familia fuerte es la base de una vida feliz y exitosa."
+        }
+    ]
+}
